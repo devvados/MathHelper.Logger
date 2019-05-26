@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Logging;
 using Nancy.Owin;
 
-namespace Logger.Host
+namespace MathHelper.Logger.Host
 {
     public class Startup
     {

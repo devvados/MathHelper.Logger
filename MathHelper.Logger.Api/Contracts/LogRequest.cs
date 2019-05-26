@@ -1,4 +1,4 @@
-namespace Logger.Api.Models
+namespace MathHelper.Logger.Api.Contracts
 {
     public class LogRequest
     {

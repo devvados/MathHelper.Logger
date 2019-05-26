@@ -1,10 +1,10 @@
-using Logger.Api.Models;
+using MathHelper.Logger.Api.Contracts;
 using Microsoft.Extensions.Logging;
 using Nancy;
 using Nancy.ModelBinding;
 using Nancy.Validation;
 
-namespace Logger.Api.Modules
+namespace MathHelper.Logger.Api.Modules
 {
     public sealed class LoggerModule : NancyModule
     {

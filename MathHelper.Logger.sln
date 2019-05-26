@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger.Api", "Logger.Api\Logger.Api.csproj", "{0214B2BB-165E-4332-BFF7-3E6B5D62EA14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathHelper.Logger.Api", "MathHelper.Logger.Api\MathHelper.Logger.Api.csproj", "{0214B2BB-165E-4332-BFF7-3E6B5D62EA14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger.Host", "Logger.Host\Logger.Host.csproj", "{00718BA3-3292-4F84-A4FC-19A18B3460E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathHelper.Logger.Host", "MathHelper.Logger.Host\MathHelper.Logger.Host.csproj", "{00718BA3-3292-4F84-A4FC-19A18B3460E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

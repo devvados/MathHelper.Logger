@@ -5,7 +5,7 @@ using Nancy;
 using Nancy.Configuration;
 using Nancy.TinyIoc;
 
-namespace Logger.Host
+namespace MathHelper.Logger.Host
 {
     public class Bootstrapper : DefaultNancyBootstrapper
     {

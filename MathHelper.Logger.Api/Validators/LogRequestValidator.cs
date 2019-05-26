@@ -1,7 +1,7 @@
 using FluentValidation;
-using Logger.Api.Models;
+using MathHelper.Logger.Api.Contracts;
 
-namespace Logger.Api.Validators
+namespace MathHelper.Logger.Api.Validators
 {
     public class LogRequestValidator : AbstractValidator<LogRequest>
     {

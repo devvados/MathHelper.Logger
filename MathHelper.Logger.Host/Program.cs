@@ -2,7 +2,7 @@
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
-namespace Logger.Host
+namespace MathHelper.Logger.Host
 {
     static class Program
     {
