@@ -6,7 +6,7 @@
 
     <ItemGroup>
       <PackageReference Include="Microsoft.Extensions.Logging" Version="2.2.0" />
-      <PackageReference Include="Nancy" Version="2.0.0-clinteastwood" />
+      <PackageReference Include="Nancy" Version="2.0.0" />
       <PackageReference Include="Nancy.Validation.FluentValidation" Version="2.0.0-clinteastwood" />
     </ItemGroup>
 
